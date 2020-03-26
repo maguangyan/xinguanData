@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a60f5530-4804-429d-bdd5-cf2706c1aeb3" name="Default Changelist" comment="">
+    <list default="true" id="a60f5530-4804-429d-bdd5-cf2706c1aeb3" name="Default Changelist" comment="把几个功能做成了函数，一共添加main函数调用">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/China/2020-03-26.csv" beforeDir="false" afterPath="$PROJECT_DIR$/China/2020-03-26.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hubei.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hubei.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hubei/2020-03-26.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Hubei/2020-03-26.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/besideH.py" beforeDir="false" afterPath="$PROJECT_DIR$/besideH.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/besideHu/2020-03-26.csv" beforeDir="false" afterPath="$PROJECT_DIR$/besideHu/2020-03-26.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chinaAllprovince.py" beforeDir="false" afterPath="$PROJECT_DIR$/chinaAllprovince.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataSource.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataSource.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataSource/2020-03-26.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/dataSource/2020-03-26.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataSource/test.pkl" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="xinguanData" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -27,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="maguangyan &lt;1792659158@qq.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -76,6 +75,9 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -94,8 +96,16 @@
       <workItem from="1585181207526" duration="746000" />
       <workItem from="1585182004141" duration="13934000" />
       <workItem from="1585201305903" duration="236000" />
-      <workItem from="1585201546063" duration="473000" />
+      <workItem from="1585201546063" duration="1316000" />
     </task>
+    <task id="LOCAL-00001" summary="把几个功能做成了函数，一共添加main函数调用">
+      <created>1585202279800</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585202279800</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +123,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="把几个功能做成了函数，一共添加main函数调用" />
+    <option name="LAST_COMMIT_MESSAGE" value="把几个功能做成了函数，一共添加main函数调用" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
