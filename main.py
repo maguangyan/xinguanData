@@ -4,6 +4,7 @@ import chinaAllprovince
 import dataSource
 import Hubei
 
+print('正在链接目标网站……')
 dataSource.saveData()   # 保存源数据
 print('正在保存源数据……')
 chinaAllprovince.getChinaallpro()   # 保存全国省数据
